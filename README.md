@@ -3,10 +3,12 @@
 Omnifood-WebSite
 
 <div align="center"> 
-  <img src="https://github.com/CristianoLagesf/news-letter-page/blob/main/app-image.png"/>
+  <img src="https://github.com/CristianoLagesf/Omnifood-WebSite/blob/main/screenshot.png"/>
 </div>
 
 
+# link 
+https://foodapp-cristiano.netlify.app/
 
 ## Description
 
