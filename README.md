@@ -3,7 +3,7 @@
 Omnifood-WebSite
 
 <div align="center"> 
-  <img src="https://github.com/CristianoLagesf/Omnifood-WebSite/blob/main/screenshot.png"/>
+  <img src="https://github.com/CristianoLagesf/Omnifood-WebSite/blob/main/app-image.png"/>
 </div>
 
 
